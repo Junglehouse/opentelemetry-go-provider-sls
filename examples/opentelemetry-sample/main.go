@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/aliyun-sls/opentelemetry-go-provider-sls/provider"
+	"github.com/Junglehouse/opentelemetry-go-provider-sls/provider"
 
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/codes"

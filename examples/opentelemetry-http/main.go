@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/aliyun-sls/opentelemetry-go-provider-sls/provider"
+	"github.com/Junglehouse/opentelemetry-go-provider-sls/provider"
 
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 	"go.opentelemetry.io/otel"

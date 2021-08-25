@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/aliyun-sls/opentelemetry-go-provider-sls/provider"
+	"github.com/Junglehouse/opentelemetry-go-provider-sls/provider"
 
 	"github.com/gorilla/mux"
 	"go.opentelemetry.io/contrib/instrumentation/github.com/gorilla/mux/otelmux"
